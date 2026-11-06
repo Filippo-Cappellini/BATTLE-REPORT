@@ -62,6 +62,30 @@ Installazione e prime prove di alcuni strumenti utili per l'analisi della sicure
 - Familiarizzazione con strumenti di cybersecurity.
 - Configurazione di un sistema di monitoraggio tramite Wazuh.
 - Analisi della rete e dei dispositivi collegati.
+
+### 6. Configurazione Honeypot e sistema di protezione tramite Whitelist
+
+Installazione e configurazione di un Honeypot per monitorare eventuali tentativi di accesso non autorizzati.
+
+Implementazione di un sistema di Whitelist contenente gli indirizzi IP autorizzati.
+
+Configurazione di un controllo sugli indirizzi IP che tentano di accedere al sistema.
+
+Gli indirizzi IP non presenti nella Whitelist vengono automaticamente bloccati.
+
+Implementazione di un blocco temporaneo della durata di 24 ore per gli indirizzi IP non autorizzati.
+
+Monitoraggio dei tentativi di connessione e degli accessi sospetti.
+
+Funzionamento del sistema
+
+Un dispositivo tenta di connettersi all'Honeypot.
+
+Il sistema verifica se l'indirizzo IP è presente nella Whitelist.
+
+Se l'indirizzo IP è autorizzato, viene gestito secondo le regole di accesso configurate.
+
+Se l'indirizzo IP non è presente nella Whitelist, viene automaticamente bloccato per 24 ore
 - Consultazione e analisi delle vulnerabilità CVE.
 
 ## Note
