@@ -3,6 +3,15 @@ azioni, informazioni e attività completate per il progetto
 
 
 
+<img width="907" height="289" alt="1" src="https://github.com/user-attachments/assets/87667583-76a1-446a-91d5-4420be10f756" />
+
+
+
+
+
+<img width="907" height="300" alt="2" src="https://github.com/user-attachments/assets/6a11280e-95dd-4ac8-929d-1fd7ba1080ed" />
+
+
 
 
 # Cybersecurity Lab – Attività svolte
