@@ -97,6 +97,8 @@ Se l'indirizzo IP è autorizzato, viene gestito secondo le regole di accesso con
 Se l'indirizzo IP non è presente nella Whitelist, viene automaticamente bloccato per 24 ore
 - Consultazione e analisi delle vulnerabilità CVE.
 
-## Note
+### 7. Sfidaa nel pomeriggio 
 
-Le attività di scansione e verifica della sicurezza vengono svolte esclusivamente su dispositivi e reti per i quali si dispone di autorizzazione.
+abbiamo iniziato a fare delle sfide ho provato a farne il più possibile anche se alcune mi sono dovuto prima informare su come si basava l'attacco e di conseguenza risolvere poi l'esercizio   
+
+
