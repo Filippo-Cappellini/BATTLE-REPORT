@@ -347,6 +347,3 @@ Le principali competenze e attività sviluppate riguardano:
 
 P.s su alcune cose ho avuto difficolta soprattutto nel non conoscere proprio tutti i tipi di attacchi che servivano per gli esercizi del pomeriggio ma li mi sono fatto aiutare dalla AI 
 
-
-
-P.s ho spippolettato con il flipper 0 
