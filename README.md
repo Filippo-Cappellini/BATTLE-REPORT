@@ -99,6 +99,6 @@ Se l'indirizzo IP non è presente nella Whitelist, viene automaticamente bloccat
 
 ### 7. Sfidaa nel pomeriggio 
 
-abbiamo iniziato a fare delle sfide ho provato a farne il più possibile anche se alcune mi sono dovuto prima informare su come si basava l'attacco e di conseguenza risolvere poi l'esercizio   
+abbiamo iniziato a fare delle sfide ho provato a farne il più possibile anche se alcune mi sono dovuto prima informare su come si basava l'attacco e di conseguenza risolvere poi l'esercizio, per molte cose ho usato kali linux, e come strumenti john the ripper in piu per farmi spiegare alcune cose ho usato claude sopratutto nella parte di wireshark   
 
 
